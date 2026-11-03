@@ -1,0 +1,46 @@
+[
+    {
+        "device_id": "DEV_A",
+        "total_records": 3,
+        "average_temperature": 45.33,
+        "minimum_temperature": 42.5,
+        "maximum_temperature": 48.5,
+        "median_temperature": 45.0,
+        "temperature_std_dev": 2.46,
+        "error_count": 1,
+        "health_status": "ERROR"
+    },
+    {
+        "device_id": "DEV_B",
+        "total_records": 3,
+        "average_temperature": 78.67,
+        "minimum_temperature": 76.0,
+        "maximum_temperature": 82.0,
+        "median_temperature": 78.0,
+        "temperature_std_dev": 2.49,
+        "error_count": 1,
+        "health_status": "ERROR"
+    },
+    {
+        "device_id": "DEV_D",
+        "total_records": 2,
+        "average_temperature": 32.5,
+        "minimum_temperature": 30.0,
+        "maximum_temperature": 35.0,
+        "median_temperature": 32.5,
+        "temperature_std_dev": 2.5,
+        "error_count": 0,
+        "health_status": "HEALTHY"
+    },
+    {
+        "device_id": "DEV_E",
+        "total_records": 2,
+        "average_temperature": 70.0,
+        "minimum_temperature": 68.0,
+        "maximum_temperature": 72.0,
+        "median_temperature": 70.0,
+        "temperature_std_dev": 2.0,
+        "error_count": 0,
+        "health_status": "WARNING"
+    }
+]
